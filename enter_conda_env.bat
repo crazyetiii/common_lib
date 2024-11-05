@@ -1,0 +1,1 @@
+%windir%\System32\cmd.exe "/K" d:\ProgramData\Anaconda3_32\Scripts\activate.bat C:\Users\Administrator\.conda\envs\common-tools_3_8
